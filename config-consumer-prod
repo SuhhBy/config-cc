@@ -1,2 +1,5 @@
-info
- profile：prod
+info:
+ profile:prod
+  
+name:'测试环境'
+words:'java devlop' 
